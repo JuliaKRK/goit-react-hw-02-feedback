@@ -5,9 +5,9 @@
 }
 
 .statistics {
-  background-color: rgb(130, 226, 130);
+  background-color: rgba(164, 232, 164, 0.5);
   color: #333333;
-  padding: 20px;
+  padding: 30px;
   width: 365px;
   border: 2px solid black;
   border-radius: 10%;
@@ -25,7 +25,7 @@
 }
 
 .statValue {
-  color: red;
+  color: brown;
   margin-left: 10px;
   font-style: normal;
 }
