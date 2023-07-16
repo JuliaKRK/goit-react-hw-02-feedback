@@ -1,4 +1,4 @@
-import React from 'react';
+1import React from 'react';
 import PropTypes from 'prop-types';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
